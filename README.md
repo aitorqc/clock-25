@@ -8,6 +8,6 @@ https://aitorqc.github.io/clock-25
 
 ## Images
 
-![Image](https://github.com/aitorqc/clock-25/blob/main/public/app.png)
+![Image](https://github.com/aitorqc/clock-25/blob/main/public/captura.jpg)
 
 
